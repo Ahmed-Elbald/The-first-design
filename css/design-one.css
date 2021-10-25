@@ -63,9 +63,9 @@ button {
 .cont {
     width: 98%;
 }
-@media (min-width:800px) {
+@media (min-width:700px) {
     .cont {
-        width: 90%;
+        width: 80%;
     }
 }
 @media (max-width:550px) {
